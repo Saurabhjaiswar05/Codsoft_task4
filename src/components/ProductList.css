@@ -1,0 +1,18 @@
+.flex1{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product-item{
+    padding: 20px;
+}
+
+.product-item img{
+    border-radius: 10px;
+}
+
+.mainp{
+    border: 2px solid skyblue;
+    margin: 20px 20px 0 20px;
+    border-radius: 10px;
+}
